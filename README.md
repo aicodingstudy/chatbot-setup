@@ -2,6 +2,8 @@
 
 This repository contains a minimal example of a Swift-based macOS chatbot application that communicates with a locally hosted large language model (LLM). The goal is to keep all chat interactions private by running the model entirely on your MacBook.
 
+If you are interested in running a similar chatbot **directly on an iPhone**, see the [iOS local LLM guide](docs/iOS-local-LLM.md) for an outline of the additional steps.
+
 ## Components
 
 1. **SwiftUI App (`ChatbotApp`)**
